@@ -1,3 +1,16 @@
-theme: jekyll-theme-minimal
-title: Homepage
-description: Test
+lang: en-US
+bg_color: dark 
+theme_color: azure
+title: 64:61:72:6B
+description: 6461726B.net
+keywords: github pages, github readme, github pages theme, jekyll theme, landing page
+
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+plugins:
+  - jekyll-optional-front-matter
